@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo(a), eu sou a Tamires Nunes 👋
 
 - 🌱 Estudante de Engenharia de Software (UNIPAMPA)
-- ⚡Atualemente no sexto semestre
+- ⚡Atualmente no sexto semestre
 - 💻 Desenvolvedora front-end e entusiasta de UI e UX Design.
 
 ### Tecnologias e Ferramentas
